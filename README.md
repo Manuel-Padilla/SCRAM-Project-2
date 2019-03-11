@@ -5,12 +5,7 @@
 Things4Sale is a classified advertisements site. Free to create and search items for sale. Users can post items to sell or trade and filter by categories.
 
 #### This project was built with the following technologies: 
-Node
-MySQL
-Express
-Handlebars
-Sequelize
-Express-fileupload - https://github.com/richardgirges/express-fileupload
+Node | MySQL | Express | Handlebars | Sequelize | Express-fileupload - https://github.com/richardgirges/express-fileupload
 
 #### Screenshots
 ![](./public/img/screenshot1.png)
