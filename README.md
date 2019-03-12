@@ -1,4 +1,4 @@
-# UTBC - Project 2
+# Things 4 Sale
 ## by S.C.R.A.M
 
 #### Description
